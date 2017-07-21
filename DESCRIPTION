@@ -1,4 +1,4 @@
-Package: cytofWorkflow_BioC2017_workshop
+Package: cytofWorkflow.BioC2017workshop
 Title: CyTOF workflow: differential discovery in high-throughput
         high-dimensional cytometry datasets. BioC 2017 workshop.
 Version: 0.0.1
@@ -20,5 +20,5 @@ Imports: BiocStyle, knitr, readxl, matrixStats, flowCore, ggplot2,
 Suggests: knitcitations
 NeedsCompilation: no
 Workflow: true
-URL: https://github.com/gosianow/cytofWorkflow_BioC2017_workshop
-BugReports: https://github.com/gosianow/cytofWorkflow_BioC2017_workshop/issues
+URL: https://github.com/gosianow/cytofWorkflow.BioC2017workshop
+BugReports: https://github.com/gosianow/cytofWorkflow.BioC2017workshop/issues
