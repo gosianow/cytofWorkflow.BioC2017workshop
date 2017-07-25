@@ -6,6 +6,6 @@
 *.Rproj
 .dropbox
 vignettes/*
-!vignettes/cytofWorkflow_BioC2017_workshop.Rmd
+!vignettes/cytofWorkflow_BioC2017workshop.Rmd
 !vignettes/bibliography.bib
 inst
